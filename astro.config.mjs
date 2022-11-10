@@ -7,5 +7,5 @@ export default defineConfig({
   integrations: [tailwind()],
   site: 'https://leonism.github.io/astro-theme-main/',
   // base: '/my-repo',
-  base: '/dist',
+  base: '/astro-theme-main',
 });
